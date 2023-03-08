@@ -36,7 +36,7 @@ function Winnings() {
         console.log(error);
       }
     };
-    fetchData();x
+    fetchData();
   }, [currentDrawTime]);
 
   return (

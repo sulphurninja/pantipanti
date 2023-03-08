@@ -98,7 +98,7 @@ export default function MyPage() {
               </div>
             </div>
             <div className="w-1/3 h-full p-4 border-y-4 rounded-3xl">
-              {/* <Winnings /> */}
+              <Winnings />
               <div className="h-full w-full rounded-3xl ">
                 <Reveal />
               </div>
