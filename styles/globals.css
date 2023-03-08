@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+  text-align: center;
+}
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; /* Adjust this value as needed */
+}
+
+header img {
+  max-height: 100%;
+  max-width: 100%;
+}
+body {
+  margin: auto;
+  /* max-width: 800px; Adjust this value as needed */
+}
