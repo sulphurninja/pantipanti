@@ -91,14 +91,14 @@ export default function MyPage() {
           </div>
           <div className="flex justify-center items-start w-full h-[80%]">
             <div className="w-1/3 h-full border-x-4 rounded-2xl p-1 bg-slate-900">
-              <ResultsTable />
+              {/* <ResultsTable /> */}
               <div className="h-auto flex justify-around">
                 <div className="px-2 py-1 border-2">New</div>
                 <div className="px-2 py-1 border-2">Old</div>
               </div>
             </div>
             <div className="w-1/3 h-full p-4 border-y-4 rounded-3xl">
-              <Winnings />
+              {/* <Winnings /> */}
               <div className="h-full w-full rounded-3xl ">
                 <Reveal />
               </div>
